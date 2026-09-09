@@ -17,3 +17,7 @@
 <!-- What is a variable in python -->
 
 -- A variable in Python is a named location in memory that stores a value. Variables are created when you assign a value to them using the assignment operator (=).
+
+<!-- What is a function in python -->
+
+-- A function in Python is a block of organized, reusable code that performs a single, related action. Functions provide better modularity for your application and a high degree of code reusing.
