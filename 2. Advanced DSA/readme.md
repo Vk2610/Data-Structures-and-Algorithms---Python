@@ -13,3 +13,7 @@
 3. Text type: str
 4. Set types: set, frozenset
 5. Mapping type: dict
+
+<!-- What is a variable in python -->
+
+-- A variable in Python is a named location in memory that stores a value. Variables are created when you assign a value to them using the assignment operator (=).
