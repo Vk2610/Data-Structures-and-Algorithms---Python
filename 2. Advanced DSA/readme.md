@@ -21,3 +21,7 @@
 <!-- What is a function in python -->
 
 -- A function in Python is a block of organized, reusable code that performs a single, related action. Functions provide better modularity for your application and a high degree of code reusing.
+
+<!-- What is oop in python -->
+
+-- Object-Oriented Programming (OOP) in Python is a programming paradigm that uses objects and classes to structure code. It allows for the creation of reusable and modular code by encapsulating data and behavior into objects. Key concepts of OOP in Python include:
