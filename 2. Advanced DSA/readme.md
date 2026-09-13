@@ -22,4 +22,6 @@
 
 -- A function in Python is a block of reusable code that performs a specific task. Functions are defined using the `def` keyword, followed by the function name and parentheses. They can take parameters (inputs) and return values (outputs). Functions help in organizing code, improving readability, and promoting code reuse.
 
-<!-- What  -->
+<!-- What is a class in python -->
+
+-- A class in Python is a blueprint for creating objects. It defines the properties (attributes) and behaviors (methods) that the objects created from the class will have. Classes are defined using the `class` keyword, followed by the class name and a colon. Objects are instances of classes, and they can be created by calling the class as if it were a function.
