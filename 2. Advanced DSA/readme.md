@@ -29,3 +29,7 @@
 <!-- What is inheritance in python -->
 
 -- Inheritance in Python is a mechanism that allows a class (called a child or subclass) to inherit attributes and methods from another class (called a parent or superclass). This promotes code reusability and establishes a hierarchical relationship between classes. Inheritance can be single, multiple, or multilevel, allowing for flexible and organized code structures.
+
+<!-- What is polymorphism in python -->
+
+-- Polymorphism in Python is the ability of different classes to be treated as instances of the same class through a common interface. It allows methods to be defined in a way that they can operate on objects of different types, enabling code to be more flexible and extensible. Polymorphism can be achieved through method overriding (in subclasses) and operator overloading.
