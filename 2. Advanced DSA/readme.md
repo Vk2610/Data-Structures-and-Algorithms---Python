@@ -25,3 +25,7 @@
 <!-- What is a class in python -->
 
 -- A class in Python is a blueprint for creating objects. It defines the properties (attributes) and behaviors (methods) that the objects created from the class will have. Classes are defined using the `class` keyword, followed by the class name and a colon. Objects are instances of classes, and they can be created by calling the class as if it were a function.
+
+<!-- What is inheritance in python -->
+
+-- Inheritance in Python is a mechanism that allows a class (called a child or subclass) to inherit attributes and methods from another class (called a parent or superclass). This promotes code reusability and establishes a hierarchical relationship between classes. Inheritance can be single, multiple, or multilevel, allowing for flexible and organized code structures.
