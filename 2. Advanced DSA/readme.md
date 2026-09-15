@@ -37,3 +37,7 @@
 <!-- What is encapsulation in python -->
 
 -- Encapsulation in Python is the practice of restricting access to certain components of an object and bundling the data (attributes) and methods (functions) that operate on that data into a single unit, called a class. It helps protect the internal state of an object from unintended interference and misuse. In Python, encapsulation is typically achieved using naming conventions (e.g., prefixing attributes with an underscore) and property decorators to control access to attributes.
+
+<!-- What is a module in python -->
+
+-- A module in Python is a file containing Python code, which can include functions, classes, and variables. Modules allow for code organization and reuse by enabling developers to break down large programs into smaller, manageable pieces. You can import a module into another Python script using the `import` statement, allowing you to access its contents. Python also has a rich standard library of built-in modules that provide various functionalities, such as file I/O, regular expressions, and data manipulation.
