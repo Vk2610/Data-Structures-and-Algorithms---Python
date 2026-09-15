@@ -33,3 +33,7 @@
 <!-- What is polymorphism in python -->
 
 -- Polymorphism in Python is the ability of different classes to be treated as instances of the same class through a common interface. It allows methods to be defined in a way that they can operate on objects of different types, enabling code to be more flexible and extensible. Polymorphism can be achieved through method overriding (in subclasses) and operator overloading.
+
+<!-- What is encapsulation in python -->
+
+-- Encapsulation in Python is the practice of restricting access to certain components of an object and bundling the data (attributes) and methods (functions) that operate on that data into a single unit, called a class. It helps protect the internal state of an object from unintended interference and misuse. In Python, encapsulation is typically achieved using naming conventions (e.g., prefixing attributes with an underscore) and property decorators to control access to attributes.
