@@ -49,3 +49,7 @@
 <!-- What are the uses of python -->
 
 -- Python is a versatile, high-level programming language used for web development, data science, artificial intelligence, automation, and software testing. Its simplicity and readability make it an excellent choice for beginners, while its extensive libraries and frameworks cater to advanced users. Python's applications include web development (using frameworks like Django and Flask), data analysis (with libraries like Pandas and NumPy), machine learning (using TensorFlow and scikit-learn), automation (through scripting), and more. Its cross-platform compatibility and strong community support further enhance its utility in various domains.
+
+<!-- What is a decorator in python -->
+
+-- A decorator in Python is a design pattern that allows you to modify the behavior of a function or class without permanently modifying it. It is a function that takes another function as an argument and extends or modifies the behavior of the latter function. Decorators are commonly used for adding logging, timing, access control, and other cross-cutting concerns to functions or methods.
